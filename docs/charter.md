@@ -223,3 +223,9 @@ By the end of v1, we ship:
 * **Change process:** PR with change log; review by Owners + Security + Governance maintainers.
 * **Approvals required:** Any change to invariants, event schemas, or policy evaluator requires 2‑of‑N multi‑sig from designated maintainers.
 * **Next review:** On completion of M0.
+
+## See Also
+
+- [Value Theory & Distribution Model](philosophy/value-theory.md) — How unequal contributions coexist with equal membership
+- [Economic Model Specification](economy/economic-model.md) — Detailed 3×3 economic layers and scales
+- [Governance Model Specification](governance/governance-model.md) — Democratic decision-making at all levels
